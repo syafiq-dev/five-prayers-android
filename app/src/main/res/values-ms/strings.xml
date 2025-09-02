@@ -90,10 +90,10 @@
     <string name="last_update_time_key">last_update_time_key</string>
 
     <!-- App Intro -->
-    <string name="app_intro_frag_1_title">Cinq Prières pour Android</string>
-    <string name="app_intro_frag_1_description">Un ensemble open source d\'outils islamiques, légers et sans publicité.</string>
+    <string name="app_intro_frag_1_title">Lima Waktu untuk Android</string>
+    <string name="app_intro_frag_1_description">Aplikasi Islamik yang ringan, tiada iklan dan Open Source.</string>
 
-    <string name="app_intro_frag_2_title">Politique de confidentialité</string>
+    <string name="app_intro_frag_2_title">Polisi Privasi</string>
     <string name="app_intro_frag_2_description">Le projet Cinq Prières pour Android vise à fournir un accès privé,
         une expérience anonyme et sans publicité pour tous les utilisateurs. Par conséquent, l\'application ne collecte aucune donnée sans votre consentement.</string>
 
