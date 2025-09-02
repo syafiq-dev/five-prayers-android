@@ -1,11 +1,11 @@
 <resources>
-    <string name="whats_new_dialog_title">Nouvelle fonctionnalité !</string>
-    <string name="whats_new_dialog_message">La fonctionnalité Qibla a été améliorée avec une nouvelle implémentation. Nous avons également ajouté les invocations quotidiennes (Adhkar).</string>
+    <string name="whats_new_dialog_title">Fungsi Baharu !</string>
+    <string name="whats_new_dialog_message"></string>
 
-    <string name="about_five_prayers">À propos de Five Prayers</string>
-    <string name="open_source_projects_used">Projets Open Source</string>
-    <string name="privacy_policy_title">Politique de confidentialité</string>
-    <string name="license_summary">Licence publique générale GNU v3</string>
+    <string name="about_five_prayers">Five Prayers</string>
+    <string name="open_source_projects_used">Projek Open Source</string>
+    <string name="privacy_policy_title">Polisi Privasi</string>
+    <string name="license_summary">GNU General Public License v3</string>
     <string name="start_accept_privacy_policy">Afin de se conformer au Règlement Général sur la Protection des Données (RGPD), nous attirons votre attention sur la politique de confidentialité de Five Prayers Android. Veuillez la lire attentivement.
 \nVous devez l’accepter pour nous envoyer le rapport de bogue.</string>
     <string name="read_privacy_policy">Lire la politique de confidentialité</string>
