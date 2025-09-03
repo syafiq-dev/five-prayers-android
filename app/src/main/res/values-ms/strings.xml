@@ -307,40 +307,40 @@
     <string name="scheduling_adhan_alert_notification_action_title">Beri kebenaran</string>
     <!--   User Messages    -->
 
-    <string name="location_service_unavailable">Unable to find your location: Please verify that location service is enabled on your phone or set your location manually in the settings section</string>
-    <string name="enable_to_reverse_geolocalisation">Unable to find your location : Please check your network connection</string>
-    <string name="network_unavailable">Cannot update prayer timing : Please check your network connection</string>
+    <string name="location_service_unavailable">Gagal mencari lokasi anda: Sila pastikan bahawa servis lokasi diaktifkan pada fon anda atau setkan lokasi secari manual di skrin tetapan</string>
+    <string name="enable_to_reverse_geolocalisation">Gagal mencari lokasi : Sila check status network anda</string>
+    <string name="network_unavailable">Gagal mengemaskini masa Solat : Sila check status network anda</string>
 
-    <string name="message_wait_for_quran_files">Preparing Quran files, please wait…</string>
-    <string name="message_download_quran_files_in_progress">Download in progress … %1$d%%</string>
-    <string name="message_unzip_quran_files_in_progress">Unzipping Quran files in progress … %1$d\/%2$d</string>
-    <string name="message_download_quran_files_error">Download error ! please verify your storage and network and try later …</string>
-    <string name="message_unzip_quran_files_error">Error while unzipping files ! please verify your storage and try later …</string>
+    <string name="message_wait_for_quran_files">Menyediakan kandungan Al-Quran, sila tunggu…</string>
+    <string name="message_download_quran_files_in_progress">Muat Turun … %1$d%%</string>
+    <string name="message_unzip_quran_files_in_progress">Unzipping kandungan Al-Quran … %1$d\/%2$d</string>
+    <string name="message_download_quran_files_error">Muat Turun Gagal ! Sila periksa saiz storan dan network fon dan cuba lagi …</string>
+    <string name="message_unzip_quran_files_error">Gagal unzip kandungan ! Sila periksa saiz storan fon dan cuba lagi …</string>
 
 
-    <string name="sura_rev_mackkia">Makkia</string>
-    <string name="sura_rev_madniaa">Madania</string>
-    <string name="ayahs">Ayahs</string>
-    <string name="surat">Quran Suras</string>
+    <string name="sura_rev_mackkia">Mekkah</string>
+    <string name="sura_rev_madniaa">Madinah</string>
+    <string name="ayahs">Ayat</string>
+    <string name="surat">Surah</string>
     <string name="bookmarks">Bookmarks</string>
-    <string name="automatic_bookmarks_title">Continue reading</string>
+    <string name="automatic_bookmarks_title">Sambung Membaca</string>
     <string name="usermade_bookmarks_title">Favorites</string>
-    <string name="msg_delete_bookmark_confirmation">Remove this Bookmark ?</string>
-    <string name="msg_empty_bookmarks_place_holer">There is no Bookmarks to show !</string>
+    <string name="msg_delete_bookmark_confirmation">Buang bookmark ni ?</string>
+    <string name="msg_empty_bookmarks_place_holer">Tiada bookmarks !</string>
 
-    <string name="daily_verse_title">Today\'s verse</string>
-    <string name="daily_verse__description">Read Today\'s verse</string>
-    <string name="daily_verse_notification_title">Today\'s verse</string>
-    <string name="daily_verse_notification_description">Read Today\'s verse: Surat %1$s - Ayah %2$d</string>
+    <string name="daily_verse_title">Bacaan Harian</string>
+    <string name="daily_verse__description">Baca ayat untuk hari ini</string>
+    <string name="daily_verse_notification_title">Bacaan Hari Ini</string>
+    <string name="daily_verse_notification_description">Bacaan Hari Ini: Surah %1$s - Ayat %2$d</string>
 
     <string name="quarter_to_display">Quarter</string>
     <string name="juz_to_display">الجزء %d</string>
     <string name="hizb_to_display">الحزب %d</string>
     <string name="part_to_display">%s  الحزب  %d</string>
-    <string name="quran">The Noble Quran</string>
-    <string name="desc_quran">Recite the Holy Quran</string>
-    <string name="title_checkbox_quran_night_mode">Night Mode</string>
-    <string name="title_notification_section">Notifications</string>
+    <string name="quran">Al-Quran</string>
+    <string name="desc_quran">Baca Al-Quran</string>
+    <string name="title_checkbox_quran_night_mode">Mod Malam</string>
+    <string name="title_notification_section">Notifikasi</string>
     <string name="dialog_title_fajr_adhan">Select Fajr Adhan</string>
     <string name="dialog_title_adhan">Select Adhan</string>
 
