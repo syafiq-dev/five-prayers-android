@@ -258,8 +258,8 @@
 
     <string name="title_silenter_preference_section">Mod Senyap</string>
     <string name="text_silenter_preference_section">Set telefon ke \'Mod Senyap\' ketika waktu solat</string>
-    <string name="error_summary_silenter_preference_section">Aplikasi ini tidak dapat untuk set ke \'Mod Senyap\' </string>
-    <string name="title_silenter_start_time">Waktu mula selepas Azan (minit)</string>
+    <string name="error_summary_silenter_preference_section">Aplikasi ini tidak dapat set ke \'Mod Senyap\' </string>
+    <string name="title_silenter_start_time">Waktu bermula selepas Azan (minit)</string>
     <string name="dialog_title_silenter_start_time">Waktu bermula</string>
     <string name="title_silenter_duration">Masa (minit)</string>
     <string name="title_silenter_duration_friday_prayer">Masa diambil untuk Solat Jumaat (minit)</string>
@@ -268,43 +268,43 @@
     <string name="title_daily_verse_preference">Bacaan Harian</string>
 
     <string name="latitude_adjustment_method_middle_of_the_night">Pertengahan malam</string>
-    <string name="latitude_adjustment_method_one_seventh">One Seventh</string>
-    <string name="latitude_adjustment_method_angle_based">Angle Based</string>
-    <string name="title_latitude_adjustment_method">Adjusting times in higher latitudes</string>
+    <string name="latitude_adjustment_method_one_seventh">Satu ketujuh</string>
+    <string name="latitude_adjustment_method_angle_based">Bergantung kepada sudut</string>
+    <string name="title_latitude_adjustment_method">Ubah masa di latitud tinggi</string>
     <string name="dialog_title_latitude_adjustment_method">Pilih cara kiraan latitud</string>
     <string name="calendar">Kalendar</string>
     <string name="gregorian_hijri_calendar">Kalendar Hijrah/Gregorian</string>
     <string name="desc_gregorian_hijri_calendar">Tarikh Hijrah and Cuti</string>
-    <string name="title_hijri_day_adjustment_preference">Hijri date adjustment</string>
-    <string name="dialog_title_hijri_day_adjustment_preference">Adjust Hijri date</string>
+    <string name="title_hijri_day_adjustment_preference">Ubahan tarikh Hijrah</string>
+    <string name="dialog_title_hijri_day_adjustment_preference">Ubah tarikh Hijrah</string>
 
-    <string name="compass_dial" translatable="false">Compass Dial</string>
-    <string name="compass_hands" translatable="false">Compass Hands</string>
-    <string name="your_location">Your Location: </string>
-    <string name="unable_to_get_your_location">Unable to get your location</string>
-    <string name="location_not_ready">Location not ready.</string>
-    <string name="pls_enable_location">Please turn on Location</string>
+    <string name="compass_dial" translatable="false">Dail Kompas</string>
+    <string name="compass_hands" translatable="false">Jejari Kompas</string>
+    <string name="your_location">Lokasi Anda: </string>
+    <string name="unable_to_get_your_location">Tidak dapat lokasi anda</string>
+    <string name="location_not_ready">Lokasi tidak tersedia.</string>
+    <string name="pls_enable_location">Sila hidupkan lokasi</string>
     <string name="degree" translatable="false">°</string>
-    <string name="dialog_message_sensor_not_exist">Your device doesn\'t have the required sensors</string>
-    <string name="dialog_title_sensor_not_calibrate">Calibration needed</string>
-    <string name="dialog_message_sensor_not_calibrate">Please calibrate your sensors, by pointing your phone up toward the sky and move it in a figure 8 motion</string>
+    <string name="dialog_message_sensor_not_exist">Fon anda tidak mempunyai sensor yang diperlukan.</string>
+    <string name="dialog_title_sensor_not_calibrate">Perlukan kalibrasi</string>
+    <string name="dialog_message_sensor_not_calibrate">Sila lakukan kalibrasi sensor, dengan menunjukkan fon ke arah langit dan gerakkan dalam bentuk figure 8</string>
 
-    <string name="title_qibla_direction">Qibla Direction</string>
-    <string name="desc_qibla_direction">Locate Qibla direction</string>
-    <string name="facing_qibla">You are Facing Qibla</string>
-    <string name="school_adjustment_method_shafii">Shafii (Default)</string>
+    <string name="title_qibla_direction">Arah Kiblat</string>
+    <string name="desc_qibla_direction">Cara Arah Kiblat</string>
+    <string name="facing_qibla">Anda sedang menghadapi Kiblat</string>
+    <string name="school_adjustment_method_shafii">Syafi'e</string>
     <string name="school_adjustment_method_hanafi">Hanafi</string>
-    <string name="title_school_adjustment_method">School</string>
-    <string name="midnight_mode_adjustment_method_standard">Default (Mid Sunset to Sunrise)</string>
-    <string name="midnight_mode_adjustment_method_jafari">Jafari (Mid Sunset to Fajr)</string>
-    <string name="title_midnight_mode_adjustment_method">Midnight mode</string>
-    <string name="adthan_notification_title">It\'s time to pray</string>
-    <string name="adthan_reminder_notification_title">The time for the next prayer is near</string>
-    <string name="adthan_notification_close_action_title">Silent and close</string>
+    <string name="title_school_adjustment_method">Mazhab</string>
+    <string name="midnight_mode_adjustment_method_standard">Default (Pertengahan matahari terbenam hingga matahari terbit)</string>
+    <string name="midnight_mode_adjustment_method_jafari">Jafari (Pertengahan matahari terbenam hingga Subuh)</string>
+    <string name="title_midnight_mode_adjustment_method">Mod tengah malam</string>
+    <string name="adthan_notification_title">Waktu untuk Solat</string>
+    <string name="adthan_reminder_notification_title">Waktu untuk solat seterusnya hampir tiba</string>
+    <string name="adthan_notification_close_action_title">Silent dan tutup</string>
 
-    <string name="scheduling_adhan_alert_notification_title">Not able to schedule Adhan</string>
-    <string name="scheduling_adhan_alert_notification_text">Scheduling exact alarm permission was revoked on your phone, without it, you cannot receive any Adhan notification. Please grant this permission to continue using Five Prayers correctly</string>
-    <string name="scheduling_adhan_alert_notification_action_title">Grant this permission</string>
+    <string name="scheduling_adhan_alert_notification_title">Tidak dapat menjadualkan Azan</string>
+    <string name="scheduling_adhan_alert_notification_text">Kebenaran setkan alarm yang tepat telah ditarik di fon anda, tanpa ini, anda tidak akan mendapat sebarang notifikasi Azan. Sila berikan kebenaran ini untuk memberi fungsi kepada aplikasi demi ia berfungsi dengan tepat.</string>
+    <string name="scheduling_adhan_alert_notification_action_title">Beri kebenaran</string>
     <!--   User Messages    -->
 
     <string name="location_service_unavailable">Unable to find your location: Please verify that location service is enabled on your phone or set your location manually in the settings section</string>
