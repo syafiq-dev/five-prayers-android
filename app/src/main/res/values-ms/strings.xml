@@ -479,11 +479,11 @@
     <string name="title_temperature_unit_imperial">Fahrenheit</string>
 
     <string name="quran_daily_schedule">Quran Reading Schedule</string>
-    <string name="quran_daily_schedule_desc">Daily Quran</string>
-    <string name="create_quran_daily_schedule">Create Reading Schedule</string>
-    <string name="reset_quran_daily_schedule">Reset Reading Schedule</string>
-    <string name="reset_quran_daily_schedule_confirmation">Do you want to reset reading schedule ?</string>
-    <string name="quran_daily_schedule_notification_title">It\'s time to recite Quran</string>
+    <string name="quran_daily_schedule_desc">Al-Quran Harian</string>
+    <string name="create_quran_daily_schedule">Buat Jadual Bacaan</string>
+    <string name="reset_quran_daily_schedule">Reset Jadual Bacaan</string>
+    <string name="reset_quran_daily_schedule_confirmation">Reset jadual bacaan ?</string>
+    <string name="quran_daily_schedule_notification_title">Masa untuk membaca Al-Quran</string>
     <string name="reciting_frequency">Reading Frequency</string>
     <string name="notification_time">Reading Time</string>
     <string name="reciting_notification_enabled">Enable Quran reading reminder</string>
